@@ -1,1 +1,1 @@
-
+print("Log Analyzer started!")
